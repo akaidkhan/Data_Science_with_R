@@ -11,8 +11,8 @@ getwd()
 
 
 #Set the working directory
-setwd("D:\Rajib Backup\Project\Innovation\Analytics\Machine Learning\Tutorial\EduCBA") #Error Code
-setwd("D:\\Rajib Backup\\Project\\Innovation\\Analytics\\Machine Learning\\Tutorial\\EduCBA")
+setwd("") #Error Code
+setwd("D:\\DataScience\\Machine Learning\\Tutorial\\EduCBA")
 setwd("D:/Project/Analytics/Tutorial/SL/Data Science with R")
 
 ################################################################################
