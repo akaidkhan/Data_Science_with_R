@@ -3,7 +3,7 @@
 #The summarise() function will create summary statistics for a given column in the data frame such as finding the mean.
 
 
-Use This Command To Perform The Above Mentioned Function
+##Use This Command To Perform The Above Mentioned Function
 
 #######################################
 #summarise(): reduces each group to a single row by calculating aggregate measures.
@@ -36,11 +36,11 @@ summarise(filter(hflights, Diverted == 1), max_div = max(Distance))
 
 
 
-Pipe operator: %>%
+##Pipe operator: %>%
   
-  Before we go any futher, let’s introduce the pipe operator: %>%. dplyr imports this operator from another package (magrittr). This operator allows you to pipe the output from one function to the input of another function. Instead of nesting functions (reading from the inside to the outside), the idea of of piping is to read the functions from left to right.
+  ##Before we go any futher, let’s introduce the pipe operator: %>%. dplyr imports this operator from another package (magrittr). This operator allows you to pipe the output from one function to the input of another function. Instead of nesting functions (reading from the inside to the outside), the idea of of piping is to read the functions from left to right.
 
-Use This Command To Perform The Above Mentioned Function
+##se This Command To Perform The Above Mentioned Function
 
 #######################################
 #Chaining function using Pipe Operators
