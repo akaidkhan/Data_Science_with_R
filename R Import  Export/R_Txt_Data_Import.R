@@ -8,3 +8,5 @@ hotdogs <- read.table( "NewHotdog.txt",sep = "\t", header = TRUE)
 
 # Call head() on hotdogs
 head(hotdogs)
+
+
