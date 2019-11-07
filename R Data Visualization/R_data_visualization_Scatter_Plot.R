@@ -159,5 +159,5 @@ plot(mtcars$hp, mtcars$mpg,type = "p",
      ylim = c(0, max_mpg), xlab = "Horsepower",
      
      ylab = "Miles per gallon", main = "Horsepower vs Mileage")
-
+%>% 
 #################################################################################
