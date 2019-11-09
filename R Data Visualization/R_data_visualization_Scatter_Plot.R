@@ -1,7 +1,5 @@
 #########################################################################
 
-#########################################################################
-
 #Following are the basic types of graphs, which can be chosen based on
 
 #the situation and the data available.
