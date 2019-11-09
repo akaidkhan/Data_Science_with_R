@@ -1,5 +1,3 @@
-# Adding details with par function
-
 #########################################################################
 
 # par function
@@ -107,3 +105,5 @@ plot(anscombe$x4, anscombe$y4,
      xlab = "x value", ylab = "y value",
      
      main = "Fourth dataset")
+
+############################################################################
