@@ -16,3 +16,4 @@ install.packages("readr")
 library(readr)
 titanic <- read_csv("titanic_train.csv")
 titanic
+#########################################################################################

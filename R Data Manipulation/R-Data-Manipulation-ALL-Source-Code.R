@@ -1,8 +1,7 @@
 
+
 ####################################################################################
-####################################################################################
-# Lesson 6: 
-# Topic 1: Apply Function
+Apply Function
 ###################################################################################
 # apply function helps to apply a function to a matrix row or a column and returns a vector, array or list
 # Syntax : apply(x, margin, function), where margin indicates whether the function is to be applied to a row or a column
